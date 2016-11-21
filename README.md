@@ -1,5 +1,5 @@
 # Fusion Room
-A repository of materials for the Fusion Room at the University of Texas at Austin's Center for Russian, East European, and Eurasian Studies.
+A repository of materials for the Fusion Room at the University of Texas at Austin's Center for Russian, East European, and Eurasian Studies. The Fusion Room is a makerspace and lab for innovation, collaboration, and exploration within the digital humanities and Slavic studies.
 
 ## REEES Digital Humanities and Open Access Resources 
 ### https://github.com/ian-nai/REEES-Digital-Humanities
