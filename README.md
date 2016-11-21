@@ -7,5 +7,6 @@ This repository aims to host content and tools relevant to the digital humanitie
 
 The repository is currently divided into folders focusing on digital humanities tools and open access resources. More content will hopefully be added in the future, and I am open to any recommendations for additions.
 
-## M3S Scraper - https://github.com/themotionmachine/m3s_scraper
+## M3S Scraper 
+### https://github.com/themotionmachine/m3s_scraper
 M3S_scraper is a tool for researchers who need to create large datasets from M3S, a tool for media analysis and language learning developed at Texas A&M University.
